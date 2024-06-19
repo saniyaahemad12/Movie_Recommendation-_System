@@ -1,4 +1,4 @@
-
+Movie Recommendation System
 This project is a Movie Recommendation System built using Streamlit, a popular framework for building interactive web applications in Python. The system recommends movies based on a selected movie from a dropdown list. The recommendations are displayed along with their respective posters.
 
 Features
